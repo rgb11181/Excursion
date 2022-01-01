@@ -3,6 +3,8 @@ body, header, footer {
     text-align: center;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 a {
